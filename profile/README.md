@@ -4,7 +4,7 @@
 
 The **Beachside Barracoders** is a vibrant school coding club where students come together to explore the exciting world of computer programming. Members of all skill levels collaborate on projects, learn new coding languages, and participate in competitions. With a focus on creativity, teamwork, and innovation, the Beachside Barracoders foster a supportive environment that encourages students to develop their coding skills while having fun.
 
-Students must follow the [Bylaws](https:/barracoders.com/docs/bylaws.pdf) and adhere to the [St. Johns County Acceptable Use Policy](https://barracoders.com/docs/AUP.pdf).
+Students must follow the [Bylaws](https://barracoders.com/docs/bylaws.pdf) and adhere to the [St. Johns County Acceptable Use Policy](https://barracoders.com/docs/AUP.pdf).
 
 ### Our Mission
 
