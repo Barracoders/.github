@@ -1,4 +1,4 @@
-![welcome-image](./welcome.png)
+![welcome-image](./missionstatementNEW.webp)
 
 # About Us
 
